@@ -20,6 +20,6 @@ Following are my projects that I completed during the nanodegree program
 
 
 ![Certificate](https://user-images.githubusercontent.com/47683278/134241127-87640da1-89b0-4911-a79b-8d0540594d9d.jpg)
-![Bertelsmann+Badge](https://user-images.githubusercontent.com/47683278/134241155-0dc9d70a-f466-4e87-a29e-94d824217a9d.jpg)
+![Bertelsmann+Badge+Phase+2](https://user-images.githubusercontent.com/47683278/134247768-951471bb-dcbc-46db-9609-7e4eeda10033.jpg)
 
 
