@@ -4,7 +4,8 @@
 
 The nanodegree program not only teaches the theoretical concepts of different predictive techniques, but also incorporates six scenario based projects which let you solve real business problems.
 
-Following are my projects that I completed during the nanodegree program
+Following are my projects that I completed during the nanodegree program. 
+The tools and technologies used for these projects were Tableau, Alteryx and MS Excel. I leveraged these tools to execute a vareity of statistical methodologies to perform different kinds of data analysis.
 
 [Project 1: Predicting Diamond Prices](https://github.com/SanaHusnani/Predictive-Analytics-for-Business-Udacity-Nanodegree-Program/blob/main/Project%201%20-%20Predicting%20Diamond%20Prices.pdf)
 
